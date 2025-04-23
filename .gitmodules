@@ -4,3 +4,6 @@
 [submodule "content"]
 	path = content
 	url = https://github.com/gatheesha/notes-vault
+[submodule "themes/hextra"]
+	path = themes/hextra
+	url = https://github.com/imfing/hextra.git
