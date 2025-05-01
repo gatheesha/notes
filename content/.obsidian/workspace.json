@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "d837c76a63d97e07",
+    "type": "split",
+    "children": [
+      {
+        "id": "248ce981826b05d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6654a696f962d2be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "modules/IIC1042 Software Engineering 1/Week 0 - Software Engineering I.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 0 - Software Engineering I"
+            }
+          },
+          {
+            "id": "031958b265d650e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "modules/IIC1042 Software Engineering 1/Week 0 - Software Engineering I.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 0 - Software Engineering I"
+            }
+          },
+          {
+            "id": "66d3b8f49adce89b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "modules/IIC1082 Computer Organization & Architecture/Progression of Computer Technology.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Progression of Computer Technology"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d55684a1cf2ea748",
+    "type": "split",
+    "children": [
+      {
+        "id": "b833b7f248104a25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "390a49775bc3009e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ff608bf1b82f3ac2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4e9c0d36147268c6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 450
+  },
+  "right": {
+    "id": "ee0cf1dcb3d8fa0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "71592d612b7d8fcb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7fbbbfcbb6d9508e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "f49ee976217f3def",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "9179b4978355ce7b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "380943055942eec4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "66d3b8f49adce89b",
+  "lastOpenFiles": [
+    "modules/ISC1013 Mathematics 1/Introduction to Logic.md",
+    "modules/IIC1082 Computer Organization & Architecture/_index.md",
+    "modules/IIC1082 Computer Organization & Architecture/Progression of Computer Technology.md",
+    "_templates/template-lecture.md",
+    "_templates/template-_index.md",
+    "modules/IIC1082 Computer Organization & Architecture/Week 0 Progression of Computer Technology DRAFT.md",
+    "_assets/images/computer_organization_and_computer_architecture.png",
+    "2025-04-30.md",
+    "_index.md",
+    "modules/IIC1042 Software Engineering 1/Week 0 - Software Engineering I.md",
+    "modules/ISC1013 Mathematics 1/_index.md",
+    "modules/IIC1053 Fundamentals of Programming",
+    "modules/ISC1022 Principles of Statistics",
+    "modules/Untitled.canvas",
+    "modules/ISC1062 Communication Skills 1",
+    "modules/ISC1033 Physics for Technology",
+    "modules/IIC1042 Software Engineering 1",
+    "modules/ISC1071 Ethical Conduct of Learners",
+    "modules/IIC1082 Computer Organization & Architecture",
+    "modules/ISC1013-mathematics_1/lecture_01-introduction_to_logic.md",
+    "modules/ISC1071 Ethical Conduct of Learners/Week 0 - Ethical Conduct of Learners.md",
+    "README.md"
+  ]
+}
