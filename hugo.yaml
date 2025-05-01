@@ -55,7 +55,8 @@ params:
     enable: true
     base: "https://github.com/gatheesha/notes-vault/edit/main/"
   
+  # Ignore Obsidian-specific files and folders
   ignoreFiles:
-    - "\.obsidian$"
-    - "\.trash$"
-    - "\.DS_Store$"
+    - '\.obsidian$'
+    - '\.trash$'
+    - '\.DS_Store$'
