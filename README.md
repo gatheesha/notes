@@ -62,5 +62,37 @@ Feel free to use, modify, and distribute with attribution.
 
 ---
 
+## Todolist
+
+### Site
+- [ ] update readme
+- [ ] root index
+- [ ] indexs for modules
+- [ ] fix image and other assets
+- [ ] hide templates
+- [ ] fix folder structure
+
+### Notes
+- [ ] software engineering 1 - week 0
+- [ ] software engineering 1 - week 1
+- [ ] fop - week 0
+- [ ] fop - week 1
+- [x] coa - week 0
+- [ ] coa - week 1
+- [ ] maths 1 - week 0
+- [ ] maths 1 - week 1
+- [ ] stats - week 0
+- [ ] stats - week 1
+- [ ] physics - week 0
+- [ ] physics - week 1
+
+#### not sure hahah
+- [ ] com skills - week 0
+- [ ] com skills - week 1
+- [ ] ethics - week 0
+- [ ] ethics - week 1
+
+---
+
 Made with ♥ by Gatheesha Nipulma and Jpura contributors.
 _Thank you for helping make knowledge open and accessible!_
