@@ -1,16 +1,25 @@
 # Hugo configuration file
 title: gaths-notes
+# ignoreFiles:
+#   - '_templates'
+#   - '_assets'
 
 # import hextra as module
 module:
   imports:
     - path: github.com/imfing/hextra
+  mounts:
+    - source: content
+      target: content
+      excludeFiles:
+        - '.DS_Store'
 
 markup:
   # allow raw html
   goldmark:
     renderer:
       unsafe: true
+
 
   # enable hextra syntax highlight
   highlight:
@@ -45,18 +54,13 @@ menu:
 params:
   navbar:
     displayTitle: true
-    displayLogo: false
+    displayLogo: true
 
   footer:
-    displayCopyright: false
-    displayPoweredBy: true
+    displayCopyright: true
+    displayPoweredBy: false
 
   editURL:
     enable: true
-    base: "https://github.com/gatheesha/notes-vault/edit/main/"
+    base: "https://github.com/gatheesha/notes/edit/main/content/"
   
-  # Ignore Obsidian-specific files and folders
-  ignoreFiles:
-    - '\.obsidian$'
-    - '\.trash$'
-    - '\.DS_Store$'

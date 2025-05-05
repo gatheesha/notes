@@ -4,7 +4,7 @@ code:
 week: 
 lecturer: 
 date: ""
-draft: false
+draft: true
 cascade:
   type: docs
 tags:

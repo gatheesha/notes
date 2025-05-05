@@ -3,3 +3,30 @@
 html {
   font-family: "Space Grotesk", sans-serif;
 }
+/* body:is(html[class~="dark"] *) {
+  background-color: #2e261f;
+} */
+
+/* Root variables inspired by Primary theme's pastel palette */
+:root {
+  --primary: #e6bf00; /* Primary’s signature pink */
+  --primary-dark: #e6bf00;
+  --accent: #6ab0ff; /* Soft blue accent */
+  --accent-dark: #4a90ff;
+  --border: #e0d8e6;
+  --border-dark: #4a4a5a;
+  --primary-hue: 50deg;
+
+}
+
+/* Links */
+a {
+  color: var(--primary);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: var(--accent);
+  text-decoration: underline;
+}

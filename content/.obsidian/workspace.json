@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "248ce981826b05d4",
+        "id": "fbd1870b0757da42",
         "type": "tabs",
         "children": [
           {
-            "id": "6654a696f962d2be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "modules/IIC1042 Software Engineering 1/Week 0 - Software Engineering I.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 0 - Software Engineering I"
-            }
-          },
-          {
-            "id": "031958b265d650e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "modules/IIC1042 Software Engineering 1/Week 0 - Software Engineering I.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 0 - Software Engineering I"
-            }
-          },
-          {
-            "id": "66d3b8f49adce89b",
+            "id": "f70e274fadfb3a88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "modules/IIC1082 Computer Organization & Architecture/Progression of Computer Technology.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Progression of Computer Technology"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,18 +165,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "66d3b8f49adce89b",
+  "active": "f70e274fadfb3a88",
   "lastOpenFiles": [
-    "modules/ISC1013 Mathematics 1/Introduction to Logic.md",
-    "modules/IIC1082 Computer Organization & Architecture/_index.md",
-    "modules/IIC1082 Computer Organization & Architecture/Progression of Computer Technology.md",
-    "_templates/template-lecture.md",
-    "_templates/template-_index.md",
-    "modules/IIC1082 Computer Organization & Architecture/Week 0 Progression of Computer Technology DRAFT.md",
-    "_assets/images/computer_organization_and_computer_architecture.png",
-    "2025-04-30.md",
-    "_index.md",
     "modules/IIC1042 Software Engineering 1/Week 0 - Software Engineering I.md",
+    "modules/ISC1013 Mathematics 1/Introduction to Logic.md",
+    "modules/IIC1082 Computer Organization & Architecture/Progression of Computer Technology.md",
+    "modules/ISC1013 Mathematics 1/Untitled.md",
+    "assets/images",
+    "assets/attachments",
+    "assets",
+    "templates/template-_index.md",
+    "templates/template-lecture.md",
+    "_index.md",
+    "modules/IIC1082 Computer Organization & Architecture/_index.md",
+    "modules/IIC1082 Computer Organization & Architecture/Week 0 Progression of Computer Technology DRAFT.md",
+    "assets/images/computer_organization_and_computer_architecture.png",
+    "2025-04-30.md",
     "modules/ISC1013 Mathematics 1/_index.md",
     "modules/IIC1053 Fundamentals of Programming",
     "modules/ISC1022 Principles of Statistics",

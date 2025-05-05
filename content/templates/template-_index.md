@@ -5,7 +5,8 @@ semester:
 credits: 
 cascade:
   type: docs
-tags:
+tags: 
+draft: true
 ---
 ## Course Description
 Brief description of the module, its purpose, and what you'll learn throughout the semester.
