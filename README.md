@@ -1,79 +1,86 @@
-# gaths-notes vault  
+---
 
+title: Introduction
+
+type: docs
+
+---
+# 🧠 gaths-notes vault  
 **LOOKING FOR CONTRIBUTORS**
 
-Welcome to **gaths-notes**, a personal and collaborative knowledge base built with Obsidian. This repository contains well-organized academic notes designed for students following the **BICT program at the Faculty of Technology, University of Sri Jayewardenepura**. A website version of this vault is also available for easier browsing.
+Welcome to **gaths-notes**, a personal and **collaborative knowledge base** built with Obsidian. This repository contains well-organized academic notes designed for students following the **BICT program at the Faculty of Technology, University of Sri Jayewardenepura**. 
+
+A website version of this vault generated with hugo is also available for easier browsing.
+
+🌐 **Website:** https://gatheesha.github.io/notes/
 
 ## Purpose
-
 This project serves as a digital second brain — a structured and detailed archive of notes and coursework.
-
 - University coursework and notes for each module
 - Productivity workflows using Obsidian, Hugo, Git, and CI integration with GitHub Actions
 
 The goal is to create a high-quality, cross-linked resource for study, review, reference, and sharing.
 
 ## Contributing to Notes Vault
-**Prerequesties:** Markdown editor of your choice, [Obsidian](https://obsidian.md/) is recomended, git
+Pre-requisites: Markdown editor of your choice, [Obsidian](https://obsidian.md/) is recommended and [Git](https://git-scm.com)
 
 To contribute:
 
-1. Clone the repository:
+- Clone the repository:
 
    ```bash
    git clone https://github.com/gatheesha/gaths-notes.git
    ```
 
-2. Open the `content/` directory as an Obsidian vault.
+- Open the `content/` directory as an Obsidian vault.
 
    > (Still looking for a way to rename the vault internally without changing the folder name.)
 
-3. Follow the existing folder structure. Add new folders for new modules or update existing ones.
+- Follow the existing folder structure. Add new folders for new modules or update existing ones.
 
-4. Use Obsidian-flavored Markdown. Add YAML frontmatter if needed.
+- Use Obsidian-flavored Markdown. Add YAML frontmatter if needed.
 
-5. Templates are available in the `templates/` directory:
+- Templates are available in the `templates/` directory:
    - `template-_index.md`: for module overview/index pages
    - `template-lecture.md`: for lecture note pages
 
-6. Ensure consistency in formatting, headings, and tags. Use Obsidian backlinks where helpful.
+- Ensure consistency in formatting, headings, and tags. Use Obsidian backlinks where helpful.
 
-7. Commit your changes and submit a pull request with a clear description.
+- Commit your changes and submit a pull request with a clear description.
 
 > Notes should be fact-checked and cited if they are based on lectures, textbooks, or other academic sources.
 
 ## Contributing to the Website
+Pre-requisites: [Hugo](https://gohugo.io/getting-started/installing/)(Extended), [Go](https://golang.org/doc/install) and [Git](https://git-scm.com)
 
-The static website is built using [Hugo](https://gohugo.io/) with the [Hextra theme](https://imfing.github.io/hextra/).
+```shell
+# Clone the repo
+git clone https://github.com/gatheesha/gaths-notes.git
 
-To contribute:
+# Change directory
+cd gaths-notes
 
-1. Install Hugo (extended version recommended):
+# Start the server
+hugo mod tidy
+hugo server --logLevel debug --disableFastRender -p 1313
+```
 
-   ```bash
-   hugo version
-   ```
+- The static website is built using [Hugo](https://gohugo.io/) with the [Hextra theme](https://imfing.github.io/hextra/).
 
-2. Run the site locally for testing:
+- Modify content under the root or `content/` directory as needed. Use `_index.md` files for section overviews.
 
-   ```bash
-   hugo server
-   ```
+- Do **not** modify the `public/` directory — it is auto-generated.
 
-3. Modify content under the root or `content/` directory as needed. Use `_index.md` files for section overviews.
+- Commit your changes and open a pull request.
 
-4. Do **not** modify the `public/` directory — it is auto-generated.
-
-5. Commit your changes and open a pull request.
-
-For theme-specific changes or custom layouts, refer to the [Hextra documentation](https://imfing.github.io/hextra/docs/).
+- For theme-specific changes or custom layouts, refer to the [Hextra documentation](https://imfing.github.io/hextra/docs/).
 
 ## Useful Links
 
 - [Obsidian](https://obsidian.md/)
 - [Hugo](https://gohugo.io/)
+- [Hextra Theme](https://imfing.github.io/hextra/)
 - [Markdown Guide](https://www.markdownguide.org/)
-- [Hextra Theme Docs](https://imfing.github.io/hextra/docs/)
 
 ## License
 
@@ -84,7 +91,7 @@ You are free to use, modify, and distribute this project with attribution.
 
 ### Website
 
-- [ ] Update README
+- [x] Update README
 - [ ] Add root index page
 - [ ] Add `_index.md` files for modules
 - [ ] Fix image and asset handling
@@ -113,5 +120,5 @@ You are free to use, modify, and distribute this project with attribution.
 - [ ] Ethics - Week 0
 - [ ] Ethics - Week 1
 
-Made with ❤️ by Gatheesha Nipulma and J'pura contributors.  
+> Made with ❤️ by Gatheesha Nipulma and J'pura contributors.  
 Thank you for helping make knowledge open and accessible!
