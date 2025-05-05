@@ -1,10 +1,3 @@
----
-
-title: Introduction
-
-type: docs
-
----
 # 🧠 gaths-notes vault  
 **LOOKING FOR CONTRIBUTORS**
 
@@ -75,22 +68,19 @@ hugo server --logLevel debug --disableFastRender -p 1313
 
 - For theme-specific changes or custom layouts, refer to the [Hextra documentation](https://imfing.github.io/hextra/docs/).
 
-## Useful Links
-
-- [Obsidian](https://obsidian.md/)
-- [Hugo](https://gohugo.io/)
-- [Hextra Theme](https://imfing.github.io/hextra/)
-- [Markdown Guide](https://www.markdownguide.org/)
 
 ## License
 
 This project is licensed under the MIT License.  
 You are free to use, modify, and distribute this project with attribution.
 
-## Todo List
+> Made with ❤️ by Gatheesha Nipulma and Jpura contributors.  
+Thank you for helping make knowledge open and accessible!
 
-### Website
+---
 
+### Todo List
+#### Website
 - [x] Update README
 - [ ] Add root index page
 - [ ] Add `_index.md` files for modules
@@ -98,8 +88,7 @@ You are free to use, modify, and distribute this project with attribution.
 - [ ] Hide `templates/` from navigation
 - [ ] Refactor folder structure
 
-### Notes
-
+#### Notes
 - [ ] Software Engineering 1 - Week 0
 - [ ] Software Engineering 1 - Week 1
 - [ ] Fundamentals of Programming - Week 0
@@ -113,12 +102,8 @@ You are free to use, modify, and distribute this project with attribution.
 - [ ] Physics - Week 0
 - [ ] Physics - Week 1
 
-### Miscellaneous (To be Confirmed)
-
+#### Miscellaneous (To be Confirmed)
 - [ ] Communication Skills - Week 0
 - [ ] Communication Skills - Week 1
 - [ ] Ethics - Week 0
 - [ ] Ethics - Week 1
-
-> Made with ❤️ by Gatheesha Nipulma and J'pura contributors.  
-Thank you for helping make knowledge open and accessible!
