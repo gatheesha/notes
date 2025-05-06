@@ -1,18 +1,17 @@
 ---
-title: 
-code: 
-semester: 
-credits: 
-cascade:
-  type: docs
-tags: 
-draft: true
+title: Mathematics I
+code: ISC1013
+semester: 1
+credits: 3
+tags:
+  - module
+  - maths
 ---
 
 ## Table of Contents
-<!-- {{< cards >}}
+{{< cards >}}
   {{< card link="./introduction-to-logic" title="Introduction to Logic" icon="newspaper" >}}
-{{< /cards >}} -->
+{{< /cards >}}
 
 ## Assessment Structure
 <!-- - **Assignment 1 (20%)** - Individual essay - Due: Week 5

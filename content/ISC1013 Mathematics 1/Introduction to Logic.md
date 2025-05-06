@@ -1,22 +1,22 @@
 ---
 topic: Introduction to Logic
 code: ISC1013
-week: Week1
+week: 0
 lecturer: Mr. Thilina W.
-date & time: 2025-04-21T23:00:00
+date: 2025-04-21T23:00:00
+draft: false
+cascade:
+  type: docs
 tags:
   - lecture
-  - module/MODULE123
-  - week/1
-  - topic/introduction
+  - maths
 ---
 # Introduction to Logic - Mathematics 1 - Week 1
-## Summary #todo
-Brief summary of the main points and key takeaways from this lecture (2-3 sentences).
-## Key Concepts #todo
-- Concept One: Brief definition
-- Concept Two: Brief definition
-- Concept Three: Brief definition
+## Key Concepts
+- Propositions
+- Connectives/Operators
+- Logical equivalencies
+- Tautologies and Contradictions
 ## 1. Introduction to Logic 
 ### 1.1 Propositions/Statements
 A **proposition (or statement)** is a declarative sentence that is either true or false (but not both). The truth or falsehood of a proposition is called its **truth value.**
@@ -41,7 +41,3 @@ A **proposition (or statement)** is a declarative sentence that is either true o
 #### Unary Operators #todo 
 
 #todo
-## Practical Examples
-- Example 1: Description and outcome
-- Example 2: Description and outcome
-- Sample problem worked through in class

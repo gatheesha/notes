@@ -1,7 +1,7 @@
 # Hugo configuration file
 title: gaths-notes
-# ignoreFiles:
-#   - '_templates'
+ignoreFiles:
+   - 'templates'
 #   - '_assets'
 
 # import hextra as module
