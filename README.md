@@ -76,34 +76,3 @@ You are free to use, modify, and distribute this project with attribution.
 
 > Made with ❤️ by Gatheesha Nipulma and Jpura contributors.  
 Thank you for helping make knowledge open and accessible!
-
----
-
-### Todo List
-#### Website
-- [x] Update README
-- [ ] Add root index page
-- [ ] Add `_index.md` files for modules
-- [ ] Fix image and asset handling
-- [ ] Hide `templates/` from navigation
-- [ ] Refactor folder structure
-
-#### Notes
-- [ ] Software Engineering 1 - Week 0
-- [ ] Software Engineering 1 - Week 1
-- [ ] Fundamentals of Programming - Week 0
-- [ ] Fundamentals of Programming - Week 1
-- [x] Computer Organization and Architecture - Week 0
-- [ ] Computer Organization and Architecture - Week 1
-- [ ] Mathematics 1 - Week 0
-- [ ] Mathematics 1 - Week 1
-- [ ] Statistics - Week 0
-- [ ] Statistics - Week 1
-- [ ] Physics - Week 0
-- [ ] Physics - Week 1
-
-#### Miscellaneous (To be Confirmed)
-- [ ] Communication Skills - Week 0
-- [ ] Communication Skills - Week 1
-- [ ] Ethics - Week 0
-- [ ] Ethics - Week 1
