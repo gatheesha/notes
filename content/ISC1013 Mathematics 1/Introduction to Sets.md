@@ -1,37 +1,50 @@
 ---
-topic: 
-code: 
-week: 
-lecturer: 
-date: ""
-draft: true
+topic: Introduction to Sets
+code: ISC1013
+week: 1
+lecturer: Mr. Thilina W.
+date: 2025-04-28T23:00:00
+draft: false
 cascade:
   type: docs
 tags:
+  - lecture
+  - maths
 ---
-## Summary
-Brief summary of the main points and key takeaways from this lecture (2-3 sentences).
-
----
+# Introduction to Sets - Mathematics 1 - Week 2
 
 ## Key Concepts
-- Concept One: Brief definition
-- Concept Two: Brief definition
-- Concept Three: Brief definition
-
----
-
-## Detailed Notes
-# 01 - Introduction to Sets
+- Types of Numbers
+- Set theory & Set Language
+- Set Notation
+- Set Operations & Product of Two Sets
+- Algebra of Sets
+## Introduction to Sets
 
 > [!info]+ Lecture Reference  
 > ESC, BSC, ISC 1013 – Mathematics I  
 > Topic: Logic & Sets  
 > Academic Year: 2025
 
----
 
-## 📌 What is a Set?
+### Types of Numbers
+
+Types of numbers in mathematics include various types of numbers i.e., natural numbers, whole numbers, integers, rational numbers, irrational numbers, real numbers, imaginary numbers, complex numbers, prime numbers, composite numbers, even numbers, odd numbers etc.
+
+> Sources:  
+> [GeeksforGeeks](https://www.geeksforgeeks.org/types-of-numbers/)
+
+| Symbol | Name               | Description                                            | Examples             |
+| ------ | ------------------ | ------------------------------------------------------ | -------------------- |
+| ℕ      | Natural Numbers    | Counting Numbers                                       | 1,2,3,4,...          |
+| W      | Whole Numbers      | Zero and the Counting Numbers                          | 0,1,2,3,4,....       |
+| ℤ      | Integers           | Zero and Positive & Negative Counting Numbers          | ...,-2,-1,0,1,2,...  |
+| Q      | Rational Numbers   | Ratios of Integers (Repeating or Terminating decimals) | 1/2, 3/4, 0.75,3.666 |
+| I      | Irrational Numbers | Don't Repeat or Terminate                              | 2, √3, √5, π         |
+| R      | Real Numbers       | All rational and Irrational Numbers                    |                      |
+
+
+### What is a Set?
 
 - A **set** is a well-defined collection of **distinct objects**.
 - The objects in a set are called **elements** or **members**.
@@ -40,9 +53,9 @@ Brief summary of the main points and key takeaways from this lecture (2-3 senten
 > - Set of vowels: `A = {a, e, i, o, u}`  
 > - Set of even numbers less than 10: `B = {2, 4, 6, 8}`
 
----
 
-## 📝 Set Notation
+
+### Set Notation
 
 - **Roster / Tabular form**: Lists all elements  
   → e.g., `A = {1, 2, 3}`
@@ -52,9 +65,9 @@ Brief summary of the main points and key takeaways from this lecture (2-3 senten
 > `∈` means "is an element of"  
 > `∉` means "is not an element of"
 
----
 
-## 🌐 Types of Sets
+
+### Types of Sets
 
 | Type                 | Description                                 | Example                    |
 |----------------------|---------------------------------------------|----------------------------|
@@ -68,64 +81,64 @@ Brief summary of the main points and key takeaways from this lecture (2-3 senten
 | **Proper Subset**    | `A ⊂ B` and `A ≠ B`                         | `{1} ⊂ {1, 2}`             |
 | **Power Set**        | Set of all subsets                          | `P({1,2}) = {∅, {1}, {2}, {1,2}}`|
 
----
 
-## ➕ Set Operations
 
-### 1. Union ( ∪ )
+### Set Operations
+
+#### 1. Union ( ∪ )
 
 - Combines all elements from both sets  
 - `A ∪ B = {x | x ∈ A or x ∈ B}`
 
-### 2. Intersection ( ∩ )
+#### 2. Intersection ( ∩ )
 
 - Common elements  
 - `A ∩ B = {x | x ∈ A and x ∈ B}`
 
-### 3. Set Difference ( − )
+#### 3. Set Difference ( − )
 
 - Elements in A not in B  
 - `A − B = {x | x ∈ A and x ∉ B}`
 
-### 4. Complement ( A′ or Aᶜ )
+#### 4. Complement ( A′ or Aᶜ )
 
 - Elements in the Universal Set not in A  
 - `A′ = {x | x ∈ U and x ∉ A}`
 
----
 
-## 🔁 Venn Diagrams
+
+### Venn Diagrams
 
 - Visual tool for representing sets and their relationships.
 - Useful for solving problems involving unions, intersections, and complements.
 
----
 
-## 💡 Important Properties
 
-### Idempotent Laws:
+### Important Properties
+
+#### Idempotent Laws:
 - `A ∪ A = A`
 - `A ∩ A = A`
 
-### Commutative Laws:
+#### Commutative Laws:
 - `A ∪ B = B ∪ A`
 - `A ∩ B = B ∩ A`
 
-### Associative Laws:
+#### Associative Laws:
 - `(A ∪ B) ∪ C = A ∪ (B ∪ C)`
 - `(A ∩ B) ∩ C = A ∩ (B ∩ C)`
 
-### Distributive Laws:
+#### Distributive Laws:
 - `A ∪ (B ∩ C) = (A ∪ B) ∩ (A ∪ C)`
 - `A ∩ (B ∪ C) = (A ∩ B) ∪ (A ∩ C)`
 
-### De Morgan’s Laws:
+#### De Morgan’s Laws:
 - `(A ∪ B)′ = A′ ∩ B′`
 - `(A ∩ B)′ = A′ ∪ B′`
 
----
 
-## ✅ Examples
+
+###  Examples
 
 > [!example]+ Example 1  
 > Let `U = {1, 2, 3, 4, 5, 6, 7, 8, 9}`,  
@@ -138,9 +151,9 @@ Brief summary of the main points and key takeaways from this lecture (2-3 senten
 > - `B − A = {5, 6}`  
 > - `A′ = {5, 6, 7, 8, 9}`
 
----
 
-## 🔚 Summary
+
+##  Summary
 
 - Sets are fundamental in mathematics for representing collections.
 - Set operations allow us to manipulate and combine data meaningfully.
@@ -149,11 +162,4 @@ Brief summary of the main points and key takeaways from this lecture (2-3 senten
 > [!tip]+ Tip  
 > Practice with Venn diagrams and set identities often—they’re common in exams and logical reasoning tests.
 
-
-
----
-
-### Practical Examples
-- Example 1: Description and outcome
-- Example 2: Description and outcome
-- Sample problem worked through in class
+[^1]: 
