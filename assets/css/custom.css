@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
 
 :root {
   --primary: #e6bf00; /* Primary’s signature pink */
@@ -8,11 +8,13 @@
   --border: #e0d8e6;
   --border-dark: #4a4a5a;
   --primary-hue: 50deg;
+  --italic: #22729b;
+  --bold: #cc3f36;
 
 }
 
 html {
-  font-family: "Space Grotesk", sans-serif;
+  font-family: "Inter", sans-serif;
 }
 
 a {
@@ -21,7 +23,16 @@ a {
   transition: color 0.2s ease;
 }
 
+em {
+  color: var(--italic);
+}
+
+strong {
+  color: var(--bold);
+}
+
 a:hover {
   color: var(--accent);
   text-decoration: underline;
 }
+

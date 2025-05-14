@@ -4,7 +4,7 @@ cascade:
   type: docs
 ---
 
-# Semester 1
+# Semester 1 PAKA
 
 {{< callout type="info" >}}
   These notes are continuously updated throughout the semester. Last update: {{ time.Now }}
@@ -118,6 +118,7 @@ This site contains my personal notes, summaries, and resources for my university
 - [ ] Fix image and asset handling
 - [x] Hide `templates/` from navigation
 - [x] Refactor folder structure
+- [ ] Update Quick Links
 
 #### Notes
 - [ ] Software Engineering 1 - Week 0
