@@ -119,6 +119,7 @@ This site contains my personal notes, summaries, and resources for my university
 - [x] Hide `templates/` from navigation
 - [x] Refactor folder structure
 - [ ] Update Quick Links
+- [ ] add obsidian callouts
 
 #### Notes
 - [ ] Software Engineering 1 - Week 0
@@ -138,3 +139,9 @@ This site contains my personal notes, summaries, and resources for my university
 #### Miscellaneous (To be Confirmed)
 - [ ] Communication Skills - Week 0
 - [ ] Communication Skills - Week 1
+
+
+
+
+
+

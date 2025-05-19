@@ -103,6 +103,7 @@ For any two propositions p and q, the statement _“if p then q”_ is cal
 | **T** | **F** | **F** |
 | F     | T     | T     |
 | F     | F     | T     |
+|       |       |       |
 
 One might wonder that why is **p→q** true when _p_ is false. This is because the implication guarantees that when _p_ and _q_ are true then the implication is true. But the implication does not guarantee anything when the premise _p_ is false. There is no way of knowing whether or not the implication is false since _p_ did not happen. This situation is similar to the “Innocent until proven Guilty” stance, which means that the implication _p→q_ is considered true until proven false. Since we cannot call the implication _p→q_ false when _p_ is false, our only alternative is to call it true.
 

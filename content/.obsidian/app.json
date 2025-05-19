@@ -1,6 +1,6 @@
 {
   "promptDelete": false,
-  "showLineNumber": false,
+  "showLineNumber": true,
   "useMarkdownLinks": true,
   "showUnsupportedFiles": true
 }

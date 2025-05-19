@@ -11,10 +11,14 @@
             "id": "f70e274fadfb3a88",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "ISC1022 Principles of Statistics/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.01103591918945
+    "width": 307.01103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "ee0cf1dcb3d8fa0a",
@@ -164,13 +169,16 @@
   "active": "f70e274fadfb3a88",
   "lastOpenFiles": [
     "ISC1013 Mathematics 1/Introduction to Logic.md",
-    "IIC1082 Computer Organization & Architecture/Progression of Computer Technology.md",
-    "_index.md",
-    "ISC1071 Ethical Conduct of Learners/Ethics in the Workplace.md",
-    "ISC1071 Ethical Conduct of Learners/Ethical Behaviour at the University.md",
-    "ISC1071 Ethical Conduct of Learners/_index.md",
-    "ISC1033 Physics for Technology/_index.md",
+    "ISC1013 Mathematics 1/Introduction to Sets.md",
+    "ISC1022 Principles of Statistics/Untitled.md",
     "ISC1022 Principles of Statistics/_index.md",
+    "_index.md",
+    "ISC1071 Ethical Conduct of Learners/_index.md",
+    "ISC1071 Ethical Conduct of Learners/Ethical Behaviour at the University.md",
+    "ISC1071 Ethical Conduct of Learners/Ethics in the Workplace.md",
+    "ISC1013 Mathematics 1/Untitled.md",
+    "IIC1082 Computer Organization & Architecture/Progression of Computer Technology.md",
+    "ISC1033 Physics for Technology/_index.md",
     "ISC1013 Mathematics 1/_index.md",
     "templates/template-_index.md",
     "IIC1042 Software Engineering 1/_index.md",
@@ -178,7 +186,6 @@
     "assets/images/computer_organization_and_computer_architecture.png",
     "templates/template-lecture.md",
     "MOD789.md",
-    "ISC1013 Mathematics 1/Untitled.md",
     "IIC1082 Computer Organization & Architecture/_index.md",
     "ISC1071 Ethical Conduct of Learners/Week 0 - Ethical Conduct of Learners.md",
     "modules/IIC1042 Software Engineering 1/Week 0 - Software Engineering I.md",
