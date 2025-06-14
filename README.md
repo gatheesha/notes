@@ -14,7 +14,7 @@ This project serves as a digital second brain — a structured and detailed arch
 
 The goal is to create a high-quality, cross-linked resource for study, review, reference, and sharing.
 
-## Contributing to Notes Vault
+## Contributing to Notes vaaaa
 Pre-requisites: Markdown editor of your choice, [Obsidian](https://obsidian.md/) is recommended and [Git](https://git-scm.com)
 
 To contribute:
