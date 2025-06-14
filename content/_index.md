@@ -4,7 +4,7 @@ cascade:
   type: docs
 ---
 
-# Semester 1 PAKA
+# Semester 1
 
 {{< callout type="info" >}}
   These notes are continuously updated throughout the semester. Last update: {{ time.Now }}
