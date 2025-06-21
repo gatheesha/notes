@@ -2,6 +2,7 @@
 public/
 resources/
 .hugo_build.lock
+content/.obsidian
 
 # Editor
 .vscode/
